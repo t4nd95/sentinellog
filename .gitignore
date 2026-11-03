@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+datasets/
+*.db
+*.sqlite*
+.streamlit/secrets.toml
